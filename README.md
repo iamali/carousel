@@ -1,8 +1,14 @@
-# carousel
+# Carousel
 
 Turns .carousels into carousels.
 
-###structure
+###Requirements
+
+- hammer.js
+- closest polyfill
+- contains polyfill
+
+###Structure
 
 ``<section class="carousel">``
 
