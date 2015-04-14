@@ -1,6 +1,8 @@
 # carousel
 
-##structure
+Turns .carousels into carousels.
+
+###structure
 
 ``<section class="carousel">``
 
